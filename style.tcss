@@ -1,7 +1,7 @@
 Static {
     width: 1fr;
     height: 100%;
-    border: solid green;
+    border: #f1937f;
 }
 
 .line {
@@ -13,5 +13,24 @@ Static {
 
 .basecont {
     height: 100%;
-    border: solid green;
+    width: 1fr;
+}
+
+.module {
+    min-height: 8;
+    height: 40%;
+    layout: vertical;
+    width: 2fr;
+    border: panel #53365d;
+}
+
+.modulesContainer > Static {
+    margin-bottom: 1;
+    padding: 1;
+}
+
+.modulesContainer {
+    width: 100%;
+    height: 100%;
+    row-span: 2;
 }
