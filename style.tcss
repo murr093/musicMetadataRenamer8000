@@ -1,0 +1,17 @@
+Static {
+    width: 1fr;
+    height: 100%;
+    border: solid green;
+}
+
+.line {
+    min-height: 3;
+    max-height: 3;
+    border: solid red;
+    background: rgb(50,50,50)
+}
+
+.basecont {
+    height: 100%;
+    border: solid green;
+}
