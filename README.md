@@ -1,0 +1,1 @@
+hello fellow humans. I'm making this program for myself to optimise my music downloading process. The program is incredibly user-friendly, so i don't think it'll need a tutorial. Wish me luck. My first (somewhat) project
